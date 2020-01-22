@@ -1,0 +1,25 @@
+/* set the CSS */
+
+
+ 
+body { 
+font: 12px Arial;
+padding: 0 3em 0 3em;
+}
+ 
+path { 
+  stroke: steelblue;
+  stroke-width: 1;
+  fill: none;
+}
+ 
+.axis path,
+
+.axis line {
+	fill: none;
+	stroke: steelblue;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+	
+}
+
